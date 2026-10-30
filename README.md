@@ -47,6 +47,6 @@ LLM을 실제로 쓰이는 제품으로 만듭니다.<br>
 ## GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chtj1024&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chtj1024&layout=compact&hide=jupyter%20notebook,html,css&hide_border=true&theme=transparent" />
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/top-langs.svg" />
 </p>
